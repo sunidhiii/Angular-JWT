@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Angular-JWT"
+    }
+  },
+  "defaultProject": "Angular-JWT",
+  "cli": {
+    "analytics": "fb5301b9-8cf8-4d1b-9b27-42b77230f603"
+  }
 }
